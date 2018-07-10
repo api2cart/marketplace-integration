@@ -1,5 +1,5 @@
 # marketplace-integration
-API2Cart provides unified API to integrate with 35+ shopping carts & marketplaces, including Amazon, eBay, Woocommerce, Opencart, Shopify.
+API2Cart is a single point of interaction for 35+ shopping carts and marketplaces, including Amazon, WooCommerce, eBay, Magento, etc.
 
 <b>With API2Cart shopping platform
 integration is easy.</b>
