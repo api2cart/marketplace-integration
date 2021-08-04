@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# marketplace-integration
+API2Cart is a single point of interaction for 35+ shopping carts and marketplaces, including Amazon, WooCommerce, eBay, Magento, etc.
 
-You can use the [editor on GitHub](https://github.com/api2cart/marketplace-integration/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<b>With API2Cart shopping platform
+integration is easy.</b>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="left">
+  <img src="https://api2cart.com/wp-content/uploads/2018/07/scheme-for-adv.jpg">
+</p>
 
-### Markdown
+Integrate once, save 4-8 weeks and thousands of dollars on each integration. Never worry about maintaining separate connections.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To get started with API2Cart register an account for a 30-day trial. You can add stores and execute methods to test how API2Cart works with orders, products, categories, and other entities from stores.
 
-```markdown
-Syntax highlighted code block
+<h2><b>SDK and full tech support</b></h2>
 
-# Header 1
-## Header 2
-### Header 3
+Download our SDK http://docs.api2cart.com/sdk to test how the API works.
+Our team always here to help you with any challenges. Furthermore, API2Cart can broaden functionality on request to meet unique business needs and requirements.<br>
 
-- Bulleted
-- List
+<a href="http://docs.api2cart.com/sdk" target="_blank"><img src="https://api2cart.com/wp-content/uploads/2018/07/sdk-1.png" alt="SDK"></a>
+ 
 
-1. Numbered
-2. List
+We’ve created a Postman collection to make your life easier as an API2Cart user, letting you test out our API in no time. It includes the majority of the requests from our API. 
 
-**Bold** and _Italic_ and `Code` text
+<a href="https://app.getpostman.com/run-collection/c1f578bdddf7ee311593" target="_blank"><img src="https://run.pstmn.io/button.svg" alt="Run in Postman"></a>
 
-[Link](url) and ![Image](src)
-```
+<h2><b>Webhooks</b></h2>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Subscribe to events your app needs (e.g. product add or order update) and have them delivered right to the specified URL as they happen.
 
-### Jekyll Themes
+<h2><b>100+ methods to manage data</b></h2>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/api2cart/marketplace-integration/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Retrieve, add, delete, update, and synchronize store data from all or any of the supported shopping carts.
 
-### Support or Contact
+We provide detailed documentation http://docs.api2cart.com to help you connect multiple shopping carts and marketplaces in one go. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+See all supported methods and platforms https://api2cart.com/supported-api-methods/. 
+
+<h2><b>Contact us</b></h2>
+  
+If you have any questions or problems, please contact us.
+You can also reach us at manager@api2cart.com. You can also mail us your ideas and suggestions about any changes.
+
+<h2><b>Support</b></h2>
+
+This API is professionally supported by API2Cart. If you want to discuss details of how API2Cart works, contact our customer success manager at manager@api2cart.com.
+
